@@ -1,0 +1,13 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.bg-img {
+    background-image: url(https://media.istockphoto.com/photos/new-soffitguttersvinyl-siding-picture-id586694046?b=1&k=20&m=586694046&s=170667a&w=0&h=v2TGMlCFEotnuvB3euHRfFE9298uTvLLJzUOXjTRpbs=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-cover{
+    background-image: linear-gradient(180deg, rgba(40, 54, 179, 0.5), rgba(26, 223, 213, 0.5));
+}

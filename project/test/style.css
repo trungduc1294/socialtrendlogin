@@ -1,0 +1,17 @@
+.container{
+    width: 1000px;
+    height: 400px;
+    background-color: pink;
+    display: flex;
+}
+.first{
+    width: 200px;
+    height: 400px;
+    background-color: aqua;
+}
+.second{
+    width: 200px;
+    height: 400px;
+    background-color: blueviolet;
+    flex-grow: 2;
+}
